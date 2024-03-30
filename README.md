@@ -2,10 +2,7 @@
 ## Olá! Bem vindo 👋
 
 
-Sou programador focado no desenvolvimento de aplicações utilizando Flutter.   
-Eu adoro aprender coisas novas sobre o universo de tecnologia e aplica-las no desenvolvimento.   
-
-Explore meus repositórios e acompanhe o que estou estudando no mundo do desenvolvimento Flutter
+Meu objetivo é adquirir novas competências que melhorem meu desempenho e produtividade, para que eu possa crescer como pessoa e como profissional, agregando mais valor ao projeto da equipe. Tenho conhecimento principalmente na construção de produtos voltados para as áreas de eco-commerce, landing-pages, Web three, crowdfunding. Ser desafiado e me manter em constante aprendizado são meus motivadores.
 
 #### Encontre-me nas redes sociais.
 
