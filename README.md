@@ -1,10 +1,17 @@
+## Bem-vindo ao Meu Repositório!
 
-## Olá! Bem vindo 👋
+Olá! eu sou o Bruno 👋 Seja bem-vindo ao meu GitHub, onde compartilho meus projetos mais recentes e códigos favoritos. Sou um desenvolvedor full stack com expertise em React.js e Node.js, estando habituado com todo o ecossistema web e sempre em busca de construir aplicativos inovadores.
 
+## Sobre Mim
+- 👨‍💻 Desenvolvedor Full Stack
+- 🌱 Aprendendo sempre e em constante evolução
+- 📚 Apaixonado por tecnologia e inovação
+- 🎸 Toco violão nas horas vagas
 
-Meu objetivo é adquirir novas competências que melhorem meu desempenho e produtividade, para que eu possa crescer como pessoa e como profissional, agregando mais valor ao projeto da equipe. Tenho conhecimento principalmente na construção de produtos voltados para as áreas de eco-commerce, landing-pages, Web three, crowdfunding. Ser desafiado e me manter em constante aprendizado são meus motivadores.
+## Vamos nos Conectar!
+ [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/NitoB_a)](https://twitter.com/NitoB_a)
+ [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=[https://www.linkedin.com/in/bruno-alves-882173161/]([https://www.linkedin.com/in/bruno-alves-882173161/](https://www.linkedin.com/in/bruno-alves-882173161/)))](https://www.linkedin.com/in/bruno-alves-882173161/)
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:nito.ba.dev@gmail.com)](nito.ba.dev@gmail.com)
 
-#### Encontre-me nas redes sociais.
-
-[![Twitter Badge](https://img.shields.io/badge/-@NitoB__a-9d3be1?style=flat-square&labelColor=6a2799&logo=twitter&logoColor=white&link=https://twitter.com/NitoB_a)](https://twitter.com/NitoB_a)     [![Linkedin Badge](https://img.shields.io/badge/-Bruno%20Santos-9d3be1?style=flat-square&labelColor=6a2799&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/bruno-alves-882173161/]([https://www.linkedin.com/in/bruno-alves-882173161/](https://www.linkedin.com/in/bruno-alves-882173161/)))](https://www.linkedin.com/in/bruno-alves-882173161/)     [![Gmail Badge](https://img.shields.io/badge/-nito.ba.dev@gmail.com-9d3be1?style=flat-square&labelColor=6a2799&logo=Gmail&logoColor=white&link=mailto:nito.ba.dev@gmail.com)](nito.ba.dev@gmail.com)
-
+## Vamos Colaborar!
+Se você tiver interesse em colaborar em algum projeto ou apenas conversar sobre tecnologia, não hesite em entrar em contato! Vamos juntos construir coisas incríveis. 🚀
